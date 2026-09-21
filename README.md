@@ -4,6 +4,8 @@ A basic web crawler built with Python, `requests`, and `BeautifulSoup`. It was m
 
 The crawler targets [books.toscrape.com](http://books.toscrape.com), a website built specifically for scraping practice.
 
+(dont mind the name I'm lazy to rename it)
+
 ## What it does
 
 - Sends GET requests to pages and follows internal links (up to a limit of 10 pages)
